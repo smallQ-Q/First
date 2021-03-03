@@ -4,5 +4,5 @@ description: This is a Test Page
 
 # Test Page
 
-So,Where will this page show in the github directory?
+So,Where will this page can be seen in the github directory?
 
